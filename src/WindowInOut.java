@@ -1,5 +1,8 @@
 import javax.swing.JOptionPane;
 
+/*
+ * @author Cameron
+ */
 public class WindowInOut implements InOut
 {
    public String nextLine(String prompt)
